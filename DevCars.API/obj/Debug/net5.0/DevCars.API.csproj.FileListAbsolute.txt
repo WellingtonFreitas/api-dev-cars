@@ -60,3 +60,4 @@ C:\Users\w.martins.de.freitas\Desktop\Bootcamp ASPNET Core\DevCars\DevCars.API\o
 C:\Users\w.martins.de.freitas\Desktop\Bootcamp ASPNET Core\DevCars\DevCars.API\obj\Debug\net5.0\ref\DevCars.API.dll
 C:\Users\w.martins.de.freitas\Desktop\Bootcamp ASPNET Core\DevCars\DevCars.API\obj\Debug\net5.0\DevCars.API.pdb
 C:\Users\w.martins.de.freitas\Desktop\Bootcamp ASPNET Core\DevCars\DevCars.API\obj\Debug\net5.0\DevCars.API.genruntimeconfig.cache
+C:\Users\w.martins.de.freitas\Desktop\Bootcamp ASPNET Core\DevCars\DevCars.API\bin\Debug\net5.0\Dapper.dll
