@@ -25,9 +25,9 @@ Essas instruções fornecerão uma cópia do projeto completo instalado e funcio
 ```
 ```
 2. Caso não tenha uma instancia local do SQL Server Express, siga o seguinte passo
-	 Abra o arquivo Startup.cs e mude a linha  
+ 	Abra o arquivo Startup.cs e mude a linha  
 	   services.AddDbContext<DevCarsDbContext>(options => options.UseSqlServer(connectionString)); 
-     para
+     	para
 	   services.AddDbContext<DevCarsDbContext>(options => options.UseInMemoryDatabase("DevCars"));
 ```
 ### Autor
